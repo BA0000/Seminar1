@@ -5,7 +5,7 @@ int n1, n2;
 n1 = 5;
 n2 = 8;
 
-Console.Write("output max and min number");
+Console.Write("output max and min number ");
 n1 = Convert.ToInt32(Console.ReadLine());
 n2 = Convert.ToInt32(Console.ReadLine());
 
